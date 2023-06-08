@@ -1,8 +1,7 @@
 -Hi, I'm @MMTrooper 
--🌱 I'm interested in playing sports and exploring new ideas
--I'm currently learing everything I can about python
--I would like to collaborate on any project regarding data science or ML
--📫 Just shoot a message or @me 
+-🌱 I code and play sports
+-Steadily improving my coding
+-📫 Just shoot a message or @me for collaborations
 
 
 <!---

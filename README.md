@@ -1,7 +1,6 @@
 -Hi, I'm @MMTrooper 
 -🌱 I code and play sports
 -Steadily improving my coding
--📫 Just shoot a message or @me for collaborations
 
 
 <!---
